@@ -1,0 +1,8 @@
+{
+  "appId": "com.skedyy.shopempire2",
+  "appName": "Shop Empire 2",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
